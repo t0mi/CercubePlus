@@ -1,10 +1,10 @@
 // Settings
 
-"REPLACE_PREVIOUS_NEXT_BUTTON" = "Replace Previous and Next Button";
-"REPLACE_PREVIOUS_NEXT_BUTTON_DESC" = "Replace Previous and Next Button with Fast forward and Rewind button. App restart is required.";
+"REPLACE_PREVIOUS_NEXT_BUTTON" = "Ersetze Zurück und Weiter";
+"REPLACE_PREVIOUS_NEXT_BUTTON_DESC" = "Ersetzt die Schaltflächen „Zurück“ und „Weiter“ durch die Schaltflächen „Schnellvorlauf“ und „Rücklauf“. App-Neustart ist erforderlich.";
 
-"FIX_GOOGLE_SIGNIN" = "Fix Google Sign in (for TrollStore user only)";
-"FIX_GOOGLE_SIGNIN_DESC" = "Turn on this option only when you can't sign in with your Google account and the app was installed via TrollStore. If you can log in normally, keep it disabled. App restart is required.";
+"FIX_GOOGLE_SIGNIN" = "Google-Anmeldung reparieren (nur für TrollStore-Benutzer)";
+"FIX_GOOGLE_SIGNIN_DESC" = "Aktiviere diese Option nur, wenn du dich nicht mit deinem Google-Konto anmelden kannst und die App über den TrollStore installiert wurde. Wenn du dich normal anmelden kannst, lasse es deaktiviert. App-Neustart ist erforderlich.";
 
 "KILL_APP" = "Close YouTube";
 "KILL_APP_DESC" = "Tap here to close YouTube!";
